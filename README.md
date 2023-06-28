@@ -1,0 +1,2 @@
+# PythonJournal
+Practice session
